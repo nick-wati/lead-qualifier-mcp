@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nick-wati-lead-qualifier-mcp-badge.png)](https://mseep.ai/app/nick-wati-lead-qualifier-mcp)
+
 # 🤖 Lead Qualifier MCP Tool
 
 A lightweight MCP tool that uses ChatGPT to qualify leads over BANT mechanism (Budget, Authority, Need, Timeline). And guide users to enter leads informations question by question.
